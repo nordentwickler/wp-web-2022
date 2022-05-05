@@ -1,0 +1,23 @@
+/* modern-normalize.css makes browsers render all elements more consistently
+and in line with modern standards. It precisely targets only the styles that need normalizing.
+
+modern-normalize v1.1.0 https://github.com/sindresorhus/modern-normalize
+
+*/
+@import url(modern-normalize.css);
+
+/* removes all default margins and font-sizes */
+@import url(preflight.css);
+
+/* font.css loads the font faces */
+@import url(fonts.css);
+
+/* typo.css contains typo styling */
+@import url(typo.css);
+
+/* typo.css contains typo styling */
+@import url(media.css);
+
+/* many more to come, like layout.css ore specific components
+...
+*/
