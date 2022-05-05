@@ -18,6 +18,4 @@ modern-normalize v1.1.0 https://github.com/sindresorhus/modern-normalize
 /* typo.css contains typo styling */
 @import url(media.css);
 
-/* many more to come, like layout.css ore specific components
-...
-*/
+@import url(layout.css);
